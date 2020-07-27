@@ -1,0 +1,4 @@
+#!/bin/bash
+Fruits=("${Fruits[@]}" "Watermelon")
+Fruits=("${Fruits[@]}" "Apple")
+echo $Fruits
